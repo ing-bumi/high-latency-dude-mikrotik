@@ -1,2 +1,2 @@
-# high-latency-dude-mikrotik
+# high latency dude mikrotik
 untuk monitoring 
