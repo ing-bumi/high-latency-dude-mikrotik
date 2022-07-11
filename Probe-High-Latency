@@ -1,0 +1,3 @@
+Available : ping(device_property("FirstAddress")) >= 0
+Error : if (array_element(ping(device_property("FirstAddress")),0) < 100,"","High Latency")
+Value : array_element(ping(device_property("FirstAddress")),0)
